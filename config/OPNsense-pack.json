@@ -445,7 +445,7 @@
           },
           "path": {
             "@type": "string",
-            "@value": "/usr/share/graylog/data/data/GeoLite2-Country.mmdb"
+            "@value": "/usr/share/graylog/geoip/GeoLite2-Country.mmdb"
           },
           "database_type": {
             "@type": "string",
